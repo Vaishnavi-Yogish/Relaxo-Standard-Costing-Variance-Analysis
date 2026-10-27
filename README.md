@@ -80,6 +80,9 @@ The following results are based on the workbook's existing assumptions and cache
 = **3.59%**
 
 
+![Check](Check.png)
+
+
 
 ## Key Findings
 
@@ -94,6 +97,10 @@ The following results are based on the workbook's existing assumptions and cache
 5. **Overall Cost Performance:** Total manufacturing cost exceeded the standard cost for actual output by ₹2,19,650 (3.59%), with direct materials contributing the largest share of the adverse variance.
 
 
+![Variance Analysis](Variance%20analysis.png)
+
+
+
 ## Dashboard
 
 The dashboard includes:
@@ -104,6 +111,9 @@ The dashboard includes:
 - Ranked priority variances and corrective actions.
 - Reconciliation status and automated control checks.
 The dashboard helps the reader identify where the cost difference occurred, understand its financial impact, and determine which areas require further investigation.
+
+
+![Dashboard](Dashboard.png)
 
 
 ## Company Context
