@@ -80,7 +80,7 @@ The following results are based on the workbook's existing assumptions and cache
 = **3.59%**
 
 
-![Check](Check.png)
+![Validation Checks](screenshots/Check.png)
 
 
 
@@ -97,7 +97,7 @@ The following results are based on the workbook's existing assumptions and cache
 5. **Overall Cost Performance:** Total manufacturing cost exceeded the standard cost for actual output by ₹2,19,650 (3.59%), with direct materials contributing the largest share of the adverse variance.
 
 
-![Variance Analysis](Variance%20analysis.png)
+![Variance Analysis](screenshots/Variance%20analysis.png)
 
 
 
@@ -113,7 +113,7 @@ The dashboard includes:
 The dashboard helps the reader identify where the cost difference occurred, understand its financial impact, and determine which areas require further investigation.
 
 
-![Dashboard](Dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 
 ## Company Context
@@ -160,6 +160,8 @@ This project was developed to demonstrate the practical application of cost acco
 It focuses on building a transparent costing model, understanding why actual costs differ from standards, checking the accuracy of calculations, and communicating the findings in a clear and professional manner.
 The emphasis is on sound accounting logic, explainable assumptions, and practical interpretation rather than unnecessary complexity.
 
+![Reconciliation](screenshots/Reconciliation%20.png)
+
 
 ## Deliverable
 Download the Excel workbook from this repository to review the calculations and supporting analysis.
@@ -167,7 +169,7 @@ Download the Excel workbook from this repository to review the calculations and 
 
 
 ## Disclaimer
-This is an independent educational portfolio project. Illustrative assumptions are used for the costing calculations. The project is not affiliated with, endorsed by, or based on confidential internal production data from Relaxo Footwears Ltd.>
+This is an independent educational portfolio project. Illustrative assumptions are used for the costing calculations. The project is not affiliated with, endorsed by, or based on confidential internal production data from Relaxo Footwears Ltd.
 
 
 
