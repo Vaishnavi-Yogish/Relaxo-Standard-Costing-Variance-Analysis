@@ -26,19 +26,19 @@ The project aims to:
 
 The workbook contains seven sheets.
 
-01 — Overview & Scope	Project objectives, scope, company context, and data limitations.
+01 — Overview & Scope:	Project objectives, scope, company context, and data limitations.
 
-02 — Assumptions	Public company context, operating assumptions, and illustrative cost inputs.
+02 — Assumptions:	Public company context, operating assumptions, and illustrative cost inputs.
 
-03 — Standard Cost	Standard quantities, rates, and cost per pair.
+03 — Standard Cost:	Standard quantities, rates, and cost per pair.
 
-04 — Actual Production & Costs	Standard cost allowed for actual output compared with actual costs.
+04 — Actual Production & Costs:	Standard cost allowed for actual output compared with actual costs.
 
-05 — Variance Analysis	Material, labour, and manufacturing overhead variances.
+05 — Variance Analysis:	Material, labour, and manufacturing overhead variances.
 
-06 — Reconciliation & Controls	Variance reconciliation and automated formula checks.
+06 — Reconciliation & Controls:	Variance reconciliation and automated formula checks.
 
-07 — Management Dashboard	Cost KPIs, variance comparisons, priority findings, and actions.
+07 — Management Dashboard: Cost KPIs, variance comparisons, priority findings, and actions.
 
 The workbook uses linked formulas to carry assumptions through the cost model, reducing repeated manual calculations and helping maintain consistency across sheets.
 
